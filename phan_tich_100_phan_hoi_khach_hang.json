@@ -1,0 +1,907 @@
+[
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Giao nhanh, đóng gói cẩn thận, sản phẩm hoạt động mượt"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng mượt, tìm kiếm nhanh, thanh toán tiện lợi"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service"
+    ],
+    "score": 5,
+    "summary": "Nhân viên tư vấn nhiệt tình, giải đáp chi tiết"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm chất lượng vượt mong đợi, thiết kế đẹp"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Giao đúng hẹn, sản phẩm chính hãng, sử dụng tốt"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service"
+    ],
+    "score": 5,
+    "summary": "Chăm sóc khách hàng tốt, đổi trả nhanh chóng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng thân thiện, đặt hàng nhanh chóng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm đáng giá, giao sớm hơn dự kiến"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service"
+    ],
+    "score": 5,
+    "summary": "Tổng đài hỗ trợ chuyên nghiệp, lịch sự"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng tải nhanh, không giật lag"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Giao trễ một tuần không thông báo, hộp móp méo"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System"
+    ],
+    "score": 1,
+    "summary": "Thanh toán lỗi, đã trừ tiền nhưng đơn chưa xác nhận"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product"
+    ],
+    "score": 1,
+    "summary": "Sản phẩm hỏng nguồn sau chưa đầy hai ngày"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Nhân viên giao hàng cáu gắt, nói năng lỗ mãng"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "Delivery",
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Giao sai màu sản phẩm, tổng đài không hỗ trợ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System"
+    ],
+    "score": 2,
+    "summary": "Hệ thống báo lỗi 504 khi nhập mã giảm giá"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product"
+    ],
+    "score": 1,
+    "summary": "Vải xù lông và áo giãn sau một lần giặt"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Shipper tự hủy đơn không thông báo, gây lỡ việc"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Chăm sóc khách hàng thờ ơ, không giải quyết vấn đề"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System"
+    ],
+    "score": 1,
+    "summary": "Ứng dụng liên tục bị văng khi mở giỏ hàng"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm tạm ổn trong tầm giá, giao hàng bình thường"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng đôi lúc chậm giờ cao điểm nhưng vẫn dùng được"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Nhân viên phục vụ bình thường, không quá nhiệt tình"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Đóng gói bình thường, sản phẩm đúng mô tả"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Giao đúng hạn nhưng hộp hơi bụi bẩn"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": null,
+    "summary": null
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": null,
+    "summary": null
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": null,
+    "summary": null
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [],
+    "score": 3,
+    "summary": "Đánh giá chung bình thường, không có gì đặc biệt"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Hàng đúng hình, thời gian giao vừa phải"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn nhiệt tình nhưng giao hàng lôi thôi"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "Delivery",
+      "Service"
+    ],
+    "score": 5,
+    "summary": "Giao nhanh, sản phẩm tuyệt vời, chăm sóc nhiệt tình"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 4,
+    "summary": "Ứng dụng ổn định, sản phẩm đẹp, giao đúng giờ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm tuyệt vời nhưng ứng dụng hay giật lag"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn tệ nhưng giao hàng cẩn thận"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Giao nhanh nhưng sản phẩm kém và chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng mượt, sản phẩm tốt nhưng giao chậm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm đẹp nhưng ứng dụng lỗi liên tục"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Tư vấn chuyên nghiệp, giao hàng nhanh chóng"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao cẩn thận, sản phẩm kém nhưng chăm sóc chuyên nghiệp"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng mượt, sản phẩm chính hãng, giao nhanh"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm chính hãng nhưng ứng dụng lỗi liên tục"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 2,
+    "summary": "Tư vấn thờ ơ, giao hàng lôi thôi"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao đúng giờ, sản phẩm đẹp nhưng chăm sóc tệ"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng ổn định, sản phẩm chính hãng, giao nhanh"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 1,
+    "summary": "Sản phẩm kém chất lượng, ứng dụng lỗi liên tục"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Tư vấn nhiệt tình, giao hàng cẩn thận"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao lôi thôi, sản phẩm tốt nhưng chăm sóc tệ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng ổn định, sản phẩm đẹp nhưng giao chậm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm tạm được, ứng dụng hay giật lag"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn thờ ơ nhưng giao hàng cẩn thận"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 4,
+    "summary": "Giao đúng giờ, sản phẩm tạm được, chăm sóc nhiệt tình"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 2,
+    "summary": "Ứng dụng lỗi liên tục, giao lôi thôi dù hàng chính hãng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm đẹp, ứng dụng hoạt động mượt mà"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn thờ ơ nhưng giao hàng nhanh"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Giao chậm, sản phẩm kém, chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 2,
+    "summary": "Ứng dụng giật lag, sản phẩm kém nhưng giao nhanh"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 4,
+    "summary": "Sản phẩm chính hãng, ứng dụng ổn định"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn tệ nhưng giao hàng nhanh"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao nhanh, sản phẩm tuyệt vời nhưng chăm sóc tệ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng giật lag, sản phẩm tạm được nhưng giao nhanh"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm kém nhưng ứng dụng ổn định"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn tệ nhưng giao hàng cẩn thận"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Giao đúng giờ nhưng sản phẩm kém, chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 2,
+    "summary": "Ứng dụng lỗi liên tục, sản phẩm tạm được, giao đúng giờ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 3,
+    "summary": "Sản phẩm tạm được, ứng dụng hay giật lag"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn nhiệt tình nhưng giao hàng chậm"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Giao lôi thôi, sản phẩm tốt nhưng chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 2,
+    "summary": "Ứng dụng lỗi liên tục, sản phẩm tạm được, giao chậm"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 1,
+    "summary": "Sản phẩm kém chất lượng, ứng dụng lỗi liên tục"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn nhiệt tình nhưng giao hàng chậm"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 1,
+    "summary": "Giao lôi thôi, sản phẩm kém, chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng mượt, giao cẩn thận nhưng sản phẩm kém"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm đẹp, ứng dụng mượt mà"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn tệ nhưng giao đúng giờ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao đúng giờ, sản phẩm tuyệt vời nhưng chăm sóc tệ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng giật lag nhưng sản phẩm chính hãng, giao cẩn thận"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm tuyệt vời, ứng dụng ổn định"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn thờ ơ nhưng giao đúng giờ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Giao lôi thôi, sản phẩm tạm được, chăm sóc thờ ơ"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng ổn định, sản phẩm tuyệt vời, giao đúng giờ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 1,
+    "summary": "Sản phẩm kém chất lượng, ứng dụng giật lag"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Tư vấn tệ, giao hàng lôi thôi"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 5,
+    "summary": "Giao nhanh, sản phẩm chính hãng, chăm sóc chuyên nghiệp"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng mượt, giao nhanh nhưng sản phẩm kém"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 1,
+    "summary": "Sản phẩm kém chất lượng, ứng dụng giật lag"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Tư vấn tệ, giao hàng chậm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao chậm nhưng sản phẩm tuyệt vời, chăm sóc chuyên nghiệp"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng mượt, sản phẩm tốt nhưng giao chậm"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 4,
+    "summary": "Sản phẩm tạm được, ứng dụng mượt mà"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Tư vấn thờ ơ, giao hàng chậm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao cẩn thận, sản phẩm kém nhưng chăm sóc chuyên nghiệp"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 5,
+    "summary": "Ứng dụng ổn định, sản phẩm đẹp, giao nhanh"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm tuyệt vời, ứng dụng mượt mà"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Tư vấn nhiệt tình nhưng giao hàng lôi thôi"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 3,
+    "summary": "Giao nhanh, sản phẩm chính hãng nhưng chăm sóc tệ"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": [
+      "System",
+      "Product",
+      "Delivery"
+    ],
+    "score": 3,
+    "summary": "Ứng dụng giật lag nhưng sản phẩm tốt, giao nhanh"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": [
+      "Product",
+      "System"
+    ],
+    "score": 5,
+    "summary": "Sản phẩm chính hãng, ứng dụng mượt mà"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Service",
+      "Delivery"
+    ],
+    "score": 1,
+    "summary": "Tư vấn thờ ơ, giao hàng lôi thôi"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": [
+      "Delivery",
+      "Product",
+      "Service"
+    ],
+    "score": 2,
+    "summary": "Giao chậm, sản phẩm kém nhưng chăm sóc chuyên nghiệp"
+  }
+]
